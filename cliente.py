@@ -1,4 +1,5 @@
 from http import client
+
 import socket
 
 cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
